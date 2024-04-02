@@ -1,1 +1,1 @@
-Hello everybody! Here I post some solved hackerearth exercises, part of my learning journey.
+Hello everybody! Here I post some solved hackerearth exercises, part of my Java learning journey.
